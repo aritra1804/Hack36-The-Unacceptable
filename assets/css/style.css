@@ -550,7 +550,39 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
   }
 
-  /*--------------------------------------------------------------
+/*--------------------------------------------------------------
+# Chatbot
+--------------------------------------------------------------*/
+.chatbot {
+    position: fixed;
+    /* display: none; */
+    right: 15px;
+    bottom: 8%;
+    z-index: 99999;  
+}
+
+.chatbot button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    background: #009961;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.4s;
+  }
+
+  .chatbot button:hover {
+    background: #00b371;
+    color: #fff;
+  }
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
