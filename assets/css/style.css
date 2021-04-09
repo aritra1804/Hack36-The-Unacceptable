@@ -572,6 +572,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
+  color: white;
 }
 
 .section-title h2::after {
@@ -589,6 +590,7 @@ section {
   margin-bottom: 0;
   color: #777777;
   font-size: 15px;
+  color: white;
 }
 
 /*--------------------------------------------------------------
@@ -597,6 +599,7 @@ section {
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
+  color: white;
 }
 
 .about .content ul {
