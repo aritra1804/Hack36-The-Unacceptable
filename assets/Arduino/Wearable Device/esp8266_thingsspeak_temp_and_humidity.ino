@@ -6,7 +6,7 @@
 dht11 dhtObject;
 String AP = "Aritra_5G";       // AP NAME
 String PASS = "ayushi01"; // AP PASSWORD
-String API = "24UUO8HK0KT43A8K";   // Write API KEY
+String API = "7UK0L4NYN721QT9S";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 int countTrueCommand;
